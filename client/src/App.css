@@ -1,0 +1,16 @@
+.app{
+font-family: Grobold;
+
+}
+/* .container-fluid{
+background-color: #15a0d1;
+} */
+.container-fluid{
+    background-color: #bbe9fa;
+    }
+h3{
+    color: #000;
+}
+.btn{
+    background-color: #ffdd49;
+}

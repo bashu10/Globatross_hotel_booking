@@ -1,0 +1,9 @@
+user- globatross_1
+pass-globatross
+
+mongod+srv://globatross_1:<password>@globatross-cluster.sqspg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+gmail-globatross0gmail.com	
+pass- globatross_svvv
+
+
+paaji acc secret key-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

@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+  }
+  .header__center {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    max-width: fit-content;
+    padding: 10px;
+    height: 30px;
+    border: 1px solid #323846;
+    border-radius: 999px;
+  }
+  .header__center > input {
+    border: 25px;
+    padding: 10px;
+    outline-width: 0;
+    width: 250px;
+    border:thin;
+    border-radius: 999px;
+    
+  }
+    
+  .header__right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 15vw;
+    margin-right: 80px;
+    color: black;
+    font-family: Grobold;
+  } 
+.app-logo{
+    object-fit: contain;
+    height: 100px;
+    margin-left: 20px;
+} 
+.top-left {
+  align-items:center;
+  top: 40px;
+  left:20px;
+  display:flex;
+  font-family:Grobold;
+  font-size: large;
+  color: #15a0d1;
+  text-shadow: 2px 2px 5px  #ffdd49;
+}
+
+
